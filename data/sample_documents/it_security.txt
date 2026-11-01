@@ -1,0 +1,6 @@
+IronStore synthetic IT security procedure. Effective 2026-01-01. Demonstration data only.
+
+Report a lost company laptop immediately to the IT Service Desk through the emergency phone
+number in the employee directory. IT revokes active sessions and remotely locks the device.
+Do not post passwords, access tokens or customer data in support tickets.
+Use the self-service identity portal to reset passwords. Multi-factor authentication is required.

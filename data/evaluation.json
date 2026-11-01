@@ -1,0 +1,9 @@
+[
+  {"question": "How many remote work days are allowed each week?", "expected_sources": ["remote_work.md"], "insufficient": false},
+  {"question": "Where do I request permission to work remotely?", "expected_sources": ["remote_work.md"], "insufficient": false},
+  {"question": "When must I submit a business expense claim?", "expected_sources": ["expenses.md"], "insufficient": false},
+  {"question": "What is the daily meal reimbursement cap?", "expected_sources": ["expenses.md"], "insufficient": false},
+  {"question": "What should I do if I lose my company laptop?", "expected_sources": ["it_security.txt"], "insufficient": false},
+  {"question": "What was IronStore's audited profit in 2025?", "expected_sources": [], "insufficient": true},
+  {"question": "What is the CEO's private home address?", "expected_sources": [], "insufficient": true}
+]
